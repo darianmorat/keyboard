@@ -1,3 +1,4 @@
 # keyboard Layout
 
-<img src="./default v2.png" alt="Keyboard Layout" width="100%">
+<img src="./default.png" alt="Default keyboard layout" width="100%">
+<img src="./voyager.png" alt="Voyager keyboard layout" width="100%">
