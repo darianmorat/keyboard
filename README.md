@@ -1,3 +1,5 @@
-# keyboard Layout
+# Keyboard Layout
 
-<img src="./base layer.png" alt="Default keyboard layout" width="100%">
+### Base Layer
+
+<img src="./base-layer.png" alt="Default keyboard layout" width="100%">
