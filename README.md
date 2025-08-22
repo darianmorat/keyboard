@@ -2,53 +2,35 @@
 
 ### Base Layer
 
-<div style="padding: 5px; background-color: white; display: flex;">
-   <img src="./images/base-layer.png" width="100%">
-</div>
+<img src="./images/base-layer.png" width="100%">
 
 ### Navigation Layer
 
-<div style="padding: 5px; background-color: white; display: flex;">
-   <img src="./images/navigation-layer.png" width="100%">
-</div>
+<img src="./images/navigation-layer.png" width="100%">
 
 ### Numpad Layer
 
-<div style="padding: 5px; background-color: white; display: flex;">
-   <img src="./images/numpad-layer.png" width="100%">
-</div>
+<img src="./images/numpad-layer.png" width="100%">
 
 ### Symbol Layer
 
-<div style="padding: 5px; background-color: white; display: flex;">
-   <img src="./images/base-layer.png" width="100%">
-</div>
+<img src="./images/symbol-layer.png" width="100%">
 
 ### Function Layer
 
-<div style="padding: 5px; background-color: white; display: flex;">
-   <img src="./images/base-layer.png" width="100%">
-</div>
+<img src="./images/function-layer.png" width="100%">
 
 ### Mouse Layer
 
-<div style="padding: 5px; background-color: white; display: flex;">
-   <img src="./images/base-layer.png" width="100%">
-</div>
+<img src="./images/mouse-layer.png" width="100%">
 
 <hr/>
 
 ### GlazeWM Layer
 
-<div style="padding: 5px; background-color: white; display: flex;">
-   <img src="./images/glaze-layer-1.png" width="100%">
-</div>
-<div style="padding: 5px; background-color: white; display: flex;">
-   <img src="./images/glaze-layer-2.png" width="100%">
-</div>
+<img src="./images/glaze-layer-1.png" width="100%">
+<img src="./images/glaze-layer-2.png" width="100%">
 
 ### Terminal Layer
 
-<div style="padding: 5px; background-color: white; display: flex;">
 <img src="./images/terminal-layer.png" width="100%">
-</div>
