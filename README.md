@@ -1,36 +1,23 @@
 # Keyboard Layout
 
+This is a compact 32-key layout designed not only for split keyboards but also with compatibility in mind for standard keyboards, making it practical when switching to a regular board
+
 ### Base Layer
 
 <img src="./images/base-layer.png" width="100%">
 
-### Navigation Layer
+### Main Layers
 
-<img src="./images/navigation-layer.png" width="100%">
+<img src="./images/main-layers.png" width="100%">
 
-### Numpad Layer
+### Combos
 
-<img src="./images/numpad-layer.png" width="100%">
+<img src="./images/combos.png" width="100%">
 
-### Symbol Layer
+### GlazeWM
 
-<img src="./images/symbol-layer.png" width="100%">
+<img src="./images/glazewm.png" width="100%">
 
-### Function Layer
+### Wezterm
 
-<img src="./images/function-layer.png" width="100%">
-
-### Mouse Layer
-
-<img src="./images/mouse-layer.png" width="100%">
-
-<hr/>
-
-### GlazeWM Layer
-
-<img src="./images/glaze-layer-1.png" width="100%">
-<img src="./images/glaze-layer-2.png" width="100%">
-
-### Terminal Layer
-
-<img src="./images/terminal-layer.png" width="100%">
+<img src="./images/wezterm.png" width="100%">
