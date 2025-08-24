@@ -2,7 +2,7 @@
 
 ### Base Layer
 
-<img src="./images/bases-layer.png" width="100%">
+<img src="./images/base-layer.png" width="100%">
 
 ### Main Layers
 
