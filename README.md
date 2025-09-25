@@ -5,11 +5,11 @@ It is implemented using [Kanata](https://github.com/jtroo/kanata). Full configur
 
 ### Base Layer
 
-<img src="./images/base-layer.png" width="100%">
+<img src="./images/base.png" width="100%">
 
 ### Main Layers
 
-<img src="./images/main-layers.png" width="100%">
+<img src="./images/main.png" width="100%">
 
 ### Combos
 
