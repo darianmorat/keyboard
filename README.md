@@ -10,15 +10,3 @@ It is implemented using [Kanata](https://github.com/jtroo/kanata). Full configur
 ### Main Layers
 
 <img src="./images/main.png" width="100%">
-
-### Combos
-
-<img src="./images/combos.png" width="100%">
-
-### GlazeWM
-
-<img src="./images/glazewm.png" width="100%">
-
-### Wezterm
-
-<img src="./images/wezterm.png" width="100%">
